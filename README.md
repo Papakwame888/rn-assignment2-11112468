@@ -10,7 +10,6 @@ This is a React Native project created for an assignment.
 - Make the name "YourName"(Papakwame) bold.
 
 ##Screenshot
-[Screenshot](screenshot.jpeg)
 ![screenshot png](https://github.com/Papakwame888/rn-assignment2-11112468/assets/170115382/e644145c-558b-4fed-b65c-13ff5110b8b3)
 
 ##Student ID
